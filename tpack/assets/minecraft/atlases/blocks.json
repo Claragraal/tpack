@@ -6,7 +6,23 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:icons/behind"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:icons/buildhammer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/center"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/center_down"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/center_up"
         },
         {
             "type": "single",
@@ -18,7 +34,35 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:icons/down"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:icons/empty"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/up"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/rotate_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/rotate_right"
         }
     ]
 }
