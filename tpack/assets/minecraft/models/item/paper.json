@@ -1,0 +1,9 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/paper"},
+"overrides":[
+{"predicate":{"custom_model_data":1},"model":"item/icons/empty"},
+{"predicate":{"custom_model_data":2},"model":"item/icons/buildhammer"},
+{"predicate":{"custom_model_data":3},"model":"item/icons/confirm"},
+{"predicate":{"custom_model_data":4},"model":"item/icons/deny"},
+{"predicate":{"custom_model_data":5},"model":"item/icons/accept"}
+]
+}

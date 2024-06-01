@@ -1,0 +1,24 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:buttons/accept"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/buildhammer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/confirm"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:buttons/deny"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:icons/empty"
+        }
+    ]
+}
